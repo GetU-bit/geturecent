@@ -1,0 +1,9 @@
+summa
+urllib3
+bs4
+BeautifulSoup4
+newspaper3k
+requests
+nltk
+flask
+pyrebase
